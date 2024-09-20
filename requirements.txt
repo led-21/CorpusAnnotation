@@ -1,0 +1,5 @@
+spacy==3.4.4
+pandas
+scipy
+numpy
+nltk
